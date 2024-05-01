@@ -1,2 +1,7 @@
 grumphp:
-    tasks: { ecs: null, composer: null, composer_normalize: null }
+  ascii: [],
+  tasks: {
+    ecs: null,
+    composer: null,
+    composer_normalize: null
+  }
